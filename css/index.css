@@ -1,0 +1,168 @@
+body {
+    
+center{
+    color: blue;
+    font-size: 35px;
+a{
+    letter-spacing: 13px;}
+}
+p1 {
+    margin-left: 10px;
+
+
+}
+.bl {
+    background-color: aqua;
+    display: inline;
+    
+.a{
+    font-weight: 700;
+}
+
+.a1 {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+    
+
+.right-text-block {
+    text-align: right;
+    margin-left: auto;
+    width: fit-content;
+}
+
+.text-line {
+    display: block;
+    padding: 2px 4px;
+    margin-bottom: 2px;
+}
+
+.yellow-highlight {
+    background-color: yellow;
+    text-decoration: underline;
+    display: inline;
+}
+
+.gray-highlight {
+    background-color: darkgrey;
+    font-family: monospace;
+    color: black;
+    display: inline;
+}
+
+.yellow-underline {
+    background-color: yellow;
+    text-decoration: underline;
+}   
+    
+
+p7 .op {
+    background-color: magenta;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+p7 a {
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+p7 a1 {
+    text-decoration: underline;
+}
+    
+
+p8{
+    a{
+color: blue;
+text-decoration: underline;
+    }
+    a1{
+        font-size: 24px;
+    }
+}
+p10{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 200px;
+}
+p9{
+    margin-left: 500px;
+    a{
+        color: blue;
+        font-style: italic;
+        font-family: "Mistral" Cursive;
+        font-weight: 700;
+    }
+    a1 {
+        text-decoration: underline;
+        text-decoration-style: wavy;
+        text-decoration-color: red;
+       }
+}
+p11{
+    margin-left: 490px;
+    a{
+        color: red;
+        font-style: italic;
+        font-family: "Mistral" Cursive;
+        font-weight: 700;
+    }
+}
+p12{
+    margin-left: 590px;
+    a {
+        text-decoration: underline;
+        text-decoration-style: wavy;
+        text-decoration-color: red;
+       }
+    a1 {
+        text-decoration: underline;
+        text-decoration-style: wavy;
+        text-decoration-color: red;
+       }
+}
+    .right-align {
+    text-align: right;
+    display: block;
+    margin: 5px 0;
+    width: 100%;
+}
+tr{
+th{
+    color: aliceblue;
+}
+th.blue{
+    color: blue;
+}
+    th.black{
+    color: black;
+}
+     th.pole1{
+    color: black;
+   font-style: italic;
+    text-align: left;
+    font-family: "Garamond", "Times New Roman", serif;
+    font-weight: bold;
+}
+    th.pole4{
+    color: black;
+        background-color: pink;
+        text-decoration: underline;
+        text-align: left;
+        font-style: italic;
+        font-weight: bold;
+        
+}
+    th.pole5{
+    color: black;
+        background-color: yellow;
+        font-weight: bold;
+    letter-spacing: 2px;
+        
+}
+}
+
+}
